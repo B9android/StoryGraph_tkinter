@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e680de7d-6d13-4cd0-b497-144434f2740d" name="Changes" comment="Created Pycharm IDE files">
-      <change beforePath="$PROJECT_DIR$/.idea/StoryGraph_tkinter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StoryGraph_tkinter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e680de7d-6d13-4cd0-b497-144434f2740d" name="Changes" comment="Added directory input for markdown parsing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +84,19 @@
       <option name="project" value="LOCAL" />
       <updated>1710294198381</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added directory input for markdown parsing">
+      <option name="closed" value="true" />
+      <created>1710298963329</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710298963329</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.dot" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -101,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Pycharm IDE files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Pycharm IDE files" />
+    <MESSAGE value="Added directory input for markdown parsing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added directory input for markdown parsing" />
   </component>
 </project>
